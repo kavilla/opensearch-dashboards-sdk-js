@@ -1,0 +1,11 @@
+{
+  "extensionId": "helloWorld",
+  "version": "1.0.0",
+  "opensearchDashboardsVersion": "opensearchDashboards",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": [],
+  "optionalPlugins": [],
+  "requiredExtensions": [],
+  "optionalExtensions": []
+}
